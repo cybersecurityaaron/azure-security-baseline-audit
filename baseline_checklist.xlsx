@@ -1,1 +1,6 @@
-
+,,,,
+,Control ID,Control Description,Implementation Status,Comments
+,ASB-01,MFA enabled for all users,Configured,-
+,ASB-02,Diagnostics logging enabled on resources,Not Configured,Needs review
+,ASB-03,NSGs configured to deny inbound by default,Configured,-
+,ASB-04,Key Vaults have Soft Delete enabled,Configured,-
